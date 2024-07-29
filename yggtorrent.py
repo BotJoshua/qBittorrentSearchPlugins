@@ -41,8 +41,8 @@ class yggtorrent(object):
     #
     # SET THESE VALUES!!
     #
-    username = "YOUR USERNAME"
-    password = "YOUR PASSWORD"
+    username = "X12321X"
+    password = "X12321X"
    ###########################################################################
 
     url = 'https://www.ygg.re/auth/login'
